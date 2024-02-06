@@ -3,7 +3,7 @@
 ![This is the project thumbnail]{./snap.png}
 
 #To check the node version
-node --version
+//node --version
 
 #To initialize the firebase console
 firebase init
